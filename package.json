@@ -1,0 +1,22 @@
+{
+  "name": "paolo-nassi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolasGdj/PaoloNassi.git"
+  },
+  "author": "Nicolas Guerroudj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicolasGdj/PaoloNassi/issues"
+  },
+  "homepage": "https://github.com/NicolasGdj/PaoloNassi#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
